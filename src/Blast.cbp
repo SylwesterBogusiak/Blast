@@ -31,11 +31,12 @@
 		<Compiler>
 			<Add option="-Wall" />
 			<Add option="-std=c99" />
-			<Add directory="/home/sylwester/Programming/libs/c/jgmod/src" />
+			<Add directory="../libs/jgmod" />
+			<Add directory="../libs/allegro" />
 		</Compiler>
 		<Linker>
 			<Add option="`allegro-config --libs`" />
-			<Add library="/home/sylwester/Programming/libs/c/jgmod/lib/unix/libjgmod.so" />
+			<Add library="./libjgmod.so" />
 		</Linker>
 		<Unit filename="computer.c">
 			<Option compilerVar="CC" />
