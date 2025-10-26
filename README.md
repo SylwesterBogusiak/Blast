@@ -18,7 +18,10 @@ successfully reached the last stage, along the way encountering alien ships.
 You have limited number of weapons, which sometimes can be recharge. Take the journey through the maze of multiple 2D elements. 
 You can play on 3 different levels of difficulty. All depends from the stages creator - stages editor included.
 
-Gameplay available on YouTube: https://www.youtube.com/watch?v=BSdojlULsNc
+Gameplay available on YouTube: 
+
+[![BLAST 1.1 GAME - C LANGUAGE WITH USE ALLEGRO 4.2 AND JGMOD LIBRARIES. OLD SCHOOL 2D GAME. MAZE GAME.](https://img.youtube.com/vi/BSdojlULsNc/0.jpg)](https://www.youtube.com/watch?v=BSdojlULsNc)
+
 Music: Łukasz Sychowicz AKA X-Ray - Grayscale Project Atari/PC Scene Screamtracker 3
 Programming and graphics: Sylwester Bogusiak AKA Sylvi91
 Enjoy!!!
